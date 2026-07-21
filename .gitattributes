@@ -1,0 +1,1 @@
+mnist.xls filter=lfs diff=lfs merge=lfs -text
